@@ -1,0 +1,14 @@
+{
+  "name": "pnpm-playwright-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Repro",
+  "license": "MIT",
+  "devDependencies": {
+    "playwright": "1.17.1"
+  }
+}
