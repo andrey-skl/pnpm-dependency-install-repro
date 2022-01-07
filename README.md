@@ -20,7 +20,7 @@ node-linker = hoisted
 node-linker = isolated
 ```
 
-You will see how "install" script has been ran:
+You will see how **"install" script has been ran**:
 
 ```
 ➜  pnpm-playwright-demo git:(main) ✗ pnpm install
