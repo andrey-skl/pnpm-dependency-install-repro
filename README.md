@@ -2,7 +2,7 @@ To reproduce the PNPM@6.25.0 issue:
 
 1. run `pnpm install`
 
-See the following output **with no "install" script run"
+See the following output **with no "install" script run"**
 
 ```
 ➜  pnpm-playwright-demo git:(main) pnpm install
