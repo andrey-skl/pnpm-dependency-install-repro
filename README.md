@@ -1,4 +1,4 @@
-To reproduce the PNPM@6.25.0 issue:
+To reproduce the PNPM@6.25.1 issue:
 
 1. run `pnpm install`
 
